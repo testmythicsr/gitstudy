@@ -1,1 +1,1 @@
-line1 master2
+line1
